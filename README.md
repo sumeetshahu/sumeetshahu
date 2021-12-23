@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumeetshahu
 - 👀 I’m interested in Python, Sql, Data Analysis, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning LSTM models in Deep Learning.
+- 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects.
 - 📫 How to reach me ... Email: shahusumeet@gmail.com
 
