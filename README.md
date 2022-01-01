@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Sql, Data Analysis, Machine Learning and Deep Learning.
 - 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on Machine Learning and Deep Learning projects.
-- 📫 How to reach me ... Email: shahusumeet@gmail.com
+- 📫 How to reach me ... Email: shahusumeet@gmail.com Linkedin: https://www.linkedin.com/in/sumeet-shahu/
 
 <!---
 sumeetshahu/sumeetshahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
